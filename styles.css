@@ -21,6 +21,8 @@ a{
 }
 
 
+/* Header Section */
+
 header .container{
     display: flex;
     justify-content: space-between;
@@ -30,4 +32,18 @@ header .container{
 ul{
     display: flex;
     gap: 20px;
+}
+
+/* Hero Section */
+section.overview-hero .container{
+    display: flex;
+}
+
+section.overview-hero-image{
+    width: 50%;
+}
+
+img{
+    width: 90%;
+    height: auto;
 }
