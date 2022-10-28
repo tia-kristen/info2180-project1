@@ -112,14 +112,14 @@ form{
     gap: 20px;
 }
 
-.form-group{
+.newsletter .form-group{
     width: 80%;
 }
 
-.form-group input{
+.newsletter .form-group input{
     width: 100%;
 }
 
-form .btn{
+.newsletter form .btn{
     width: 20%;
 }
