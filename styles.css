@@ -99,3 +99,27 @@ section.overview-hero-image{
     width: 20%;
     height: 100%;
 }
+
+/* Newsletter Section */
+.newsletter .container{
+    text-align: center;
+}
+
+form{
+    width: 69%;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+}
+
+.form-group{
+    width: 80%;
+}
+
+.form-group input{
+    width: 100%;
+}
+
+form .btn{
+    width: 20%;
+}
