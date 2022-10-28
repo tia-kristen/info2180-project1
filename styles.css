@@ -84,3 +84,18 @@ section.overview-hero-image{
     padding: 15px 35px;
     display: inline-block;
 }
+
+/* Recent Stories Section */
+.stories article{
+    display: flex;
+}
+
+.stories .article-body{
+    padding-left: 20px;
+    width: 70%;
+}
+
+.stories img{
+    width: 20%;
+    height: 100%;
+}
