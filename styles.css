@@ -213,7 +213,7 @@ form{
     margin: auto;
     display: flex;
     gap: 55px;
-    padding-top: 20px;
+    padding: 20px 0;
     /* border: 1px solid red; */
 }
 
